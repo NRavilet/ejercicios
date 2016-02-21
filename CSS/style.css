@@ -1,0 +1,17 @@
+.estilo1 {
+  color:red;
+}
+.estilo2 {
+  color:blue;
+}
+#ultimo-parrafo {
+  color:#933;
+}
+
+tr:nth-of-type(even) td:nth-of-type(even), 
+tr:nth-of-type(odd) td:nth-of-type(odd) {
+  background-color:black;
+  color:white;
+}
+
+html
